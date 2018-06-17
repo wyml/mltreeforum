@@ -1,8 +1,10 @@
+English version is available! [Click me](en.README.md) to view!
+
 # MlTree-Forum
 
 #### 项目介绍
 
-MlTree-Forum是一款轻论坛程序，由MDUI搭建前端框架，ThinkPHP提供后端框架。在极短时间内完成一个轻论坛的搭建。设计的理念遵循Material Design。因此非常适合手机端，同时向上兼容各类设备，是一款自适应式轻论坛。
+MlTree-Forum是一款轻论坛程序，由MDUI搭建前端框架，ThinkPHP提供后端框架。在极短时间内完成一个轻论坛的搭建。设计的理念遵循Material Design。因此非常适合手机端，同时向上兼容各类设备，是一款响应式轻论坛。
 
 多种登录方式：论坛目前支持QQ登录，后期还会提供各种拓展登录方式。
 
@@ -63,4 +65,3 @@ Telegrate：https://t.me/joinchat/Hewif0uvElN9X2VF3FUaqw
 - MDUI：https://www.mdui.org
 - ThinkPHP：http://www.thinkphp.cn/
 - LayUI：http://www.layui.com/
-
